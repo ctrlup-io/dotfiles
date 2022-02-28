@@ -12,3 +12,7 @@
 ## Visual Studio Code extensions
 
 See [.vscode/extensions.json](.vscode/extensions.json).
+
+## Gitignore
+
+See [gitignore.io](https://gitignore.io/) because it's the best tool to generate `.gitignore` files depending of your context.
