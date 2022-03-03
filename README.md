@@ -13,6 +13,10 @@
 
 See [.vscode/extensions.json](.vscode/extensions.json).
 
+- [VS Code ESLint extension](https://github.com/Microsoft/vscode-eslint#readme)
+- [Prettier Formatter for Visual Studio Code](https://github.com/prettier/prettier-vscode#readme)
+- [Spelling Checker for Visual Studio Code](https://github.com/streetsidesoftware/vscode-spell-checker#readme)
+
 ## Gitignore
 
 See [gitignore.io](https://gitignore.io/) because it's the best tool to generate `.gitignore` files depending of your context.
